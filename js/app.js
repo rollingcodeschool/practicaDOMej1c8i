@@ -17,4 +17,5 @@ function adivinarNumero(e){
   let numeroIngresado = document.querySelector('input').value
   console.log(numeroIngresado)
   //completar las preguntas correspondientes
+  //formulario.reset();
 }
